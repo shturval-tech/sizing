@@ -1,0 +1,12 @@
+{
+ "commit": "f048718",
+ "branch": "internal",
+ "dirty": false,
+ "builtAt": "2026-11-03T15:39:58.496Z",
+ "releases": [
+  {
+   "version": "2.15.0",
+   "generatedAt": "2026-10-20T16:25:07Z"
+  }
+ ]
+}
